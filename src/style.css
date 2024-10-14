@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.search-container {
+    background-color: #1e1e1e;
+    color: #f1f1f1;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .search-title {
+    margin-bottom: 15px;
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    color: gold;
+  }
+
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #444;
+    border-radius: 4px;
+    background-color: #2a2a2a;
+    color: #f1f1f1;
+  }
+
+  .search-checkbox {
+    display: block;
+    margin-bottom: 20px;
+    color: #f1f1f1;
+  }
+
+  .post-list {
+    margin-top: 20px;
+  }
+
+  .post-item {
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+
+  .post-title {
+    font-size: 20px;
+    color: gold;
+    margin: 0;
+  }
+
+  .post-body {
+    color: #d1d1d1;
+  }
